@@ -2,8 +2,9 @@
 ## Timer
 ---
 
-![imagem_timer_fisico_header](https://github.com/heramenezes/Timer_Projeto_Arduino/assets/161848676/52997fa2-2ac8-4bce-b07a-6f6834915352)
+![imagem_timer_fisico_header](https://github.com/heramenezes/Timer_Projeto_Arduino/assets/161848676/8a2adf7c-2cf1-4d90-ad8e-123bdbd9d4c6)
 
+---
 
 ## 👤 Integrantes
 
@@ -40,7 +41,7 @@ Para o projeto, foram divididas 3 etapas: discussão acerca do tema do projeto, 
 
 https://github.com/heramenezes/Timer_Projeto_Arduino/assets/161848676/37b79bea-6e83-48c0-af84-40f14669e10e
 
-> [!Imagens do projeto]
+> [Imagens do projeto]
 > Para visualizar mais imagens do projeto físico, basta acessar a pasta "imgs" do repertório, sendo que esta contém mais 6 imagens tiradas durante e após a montagem do sistema.
 
 
