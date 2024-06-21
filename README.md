@@ -16,7 +16,7 @@ Este repositório tem como objetivo disponibilizar o projeto "TIMER" feito em du
 
 ## 🎮 Como funciona?
 
-O sistema tem como principais peças: LED, resistor, buzzer, botão e potenciômetro. Para iniciar o projeto, basta indicar no potenciômetro o tempo desejado para o temporizador e apertar o botão. Quando o botão é clicado, o timer já começa a funcionar, contando de trás para frente até seu limite ( o número 0 ). Olhando no terminal do computador, é possível vizualizar a contagem de tempo do timer, indo de segundo em segundo em direção ao 0. Após o término da contagem, ou seja, quando o temporizador chega em 0, um alarme é tocado e a led acende, demonstrando que o tempo acabou. Logo após isso, o timer encerra sua ação.
+O sistema tem como principais peças: LED, resistor, buzzer, botão e potenciômetro. Para iniciar o projeto, basta indicar no potenciômetro o tempo desejado para o temporizador e apertar o botão. Quando o botão é clicado, o timer já começa a funcionar, contando de trás para frente até seu limite ( o número 0 ). Olhando no terminal do computador, é possível vizualizar a contagem de tempo do timer, indo de segundo em segundo em direção ao 0. Após o término da contagem, ou seja, quando o temporizador chega em 0, um alarme é tocado e o LED acende, demonstrando que o tempo acabou. Logo após isso, o timer encerra sua ação.
 
 ---
 
