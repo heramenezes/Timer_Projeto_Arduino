@@ -1,5 +1,5 @@
 
-## Timer
+##                                                        TIMER
 ---
 
 ![imagem_timer_fisico_header](https://github.com/heramenezes/Timer_Projeto_Arduino/assets/161848676/8a2adf7c-2cf1-4d90-ad8e-123bdbd9d4c6)
